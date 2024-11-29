@@ -1,0 +1,1 @@
+<?php echo('good morninh') ?> .this is php file
